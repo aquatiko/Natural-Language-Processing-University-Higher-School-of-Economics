@@ -6,3 +6,6 @@ Course 6:- Natural Language Processing
 
 ### Week1
 Dated-28/06/18         Score: 10/10 
+
+### Week2
+Dated-30/06/18         Score: 40%(+) precision (as asked) 
